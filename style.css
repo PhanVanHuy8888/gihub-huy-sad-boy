@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* font-family: 'Poppins', sans-serif; */
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+}
+
+.banner {
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    margin: 0 5px;
+    background-color: rgb(223, 223, 179);
+}
+
+.form {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+
+}
+
+.login {
+    height: 150px;
+    text-align: center;
+    background-color: rgb(223, 223, 179);
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search {
+    height: 150px;
+    text-align: center;
+    background-color: rgb(223, 223, 179);
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    height: 150px;
+    background-color: rgb(223, 223, 179);
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    width: 75%;
+    margin-top: 5px;
+}
+
+.date {
+    text-align: right;
+    background-color: rgb(45, 45, 44);
+    border-bottom: 1px solid rgb(91, 59, 59);
+    padding-right: 5px;
+}
+
+.link {
+    background-color: rgb(45, 45, 44);
+    text-align: center;
+}
+
+.half-Page {
+    display: flex;
+}
+
+.mainPage {
+    height: 400px;
+    width: 60%;
+    background-color: rgb(45, 45, 44);
+    margin: 5px 5px 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.mainSubPage {
+    width: 40%;
+    background-color: rgb(223, 223, 179);
+    /* margin-top: 5px;     */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    text-align: center;
+    margin: 0 5px;
+    background-color: rgb(223, 223, 179);
+}
