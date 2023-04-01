@@ -1,0 +1,14 @@
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\bin\Debug\THI_PhanVanHuy-2110900026.exe.config
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\bin\Debug\THI_PhanVanHuy-2110900026.exe
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\bin\Debug\THI_PhanVanHuy-2110900026.pdb
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy-2110900026.csproj.AssemblyReference.cache
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy-2110900026.csproj.SuggestedBindingRedirects.cache
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy_2110900026.Form1.resources
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy_2110900026.Properties.Resources.resources
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy-2110900026.csproj.GenerateResource.cache
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy-2110900026.csproj.CoreCompileInputs.cache
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy-2110900026.exe
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy-2110900026.pdb
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\bin\Debug\Database1.mdf
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\bin\Debug\Database1_log.ldf
+E:\C#\THI_PhanVanHuy-2110900026\THI_PhanVanHuy-2110900026\obj\Debug\THI_PhanVanHuy_2110900026.Form2.resources

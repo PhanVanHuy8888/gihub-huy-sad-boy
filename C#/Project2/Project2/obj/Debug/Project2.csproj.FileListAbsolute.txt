@@ -1,0 +1,11 @@
+E:\C#\Project2\Project2\bin\Debug\Project2.exe.config
+E:\C#\Project2\Project2\bin\Debug\Project2.exe
+E:\C#\Project2\Project2\bin\Debug\Project2.pdb
+E:\C#\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+E:\C#\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+E:\C#\Project2\Project2\obj\Debug\Project2.Form1.resources
+E:\C#\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+E:\C#\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+E:\C#\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\C#\Project2\Project2\obj\Debug\Project2.exe
+E:\C#\Project2\Project2\obj\Debug\Project2.pdb

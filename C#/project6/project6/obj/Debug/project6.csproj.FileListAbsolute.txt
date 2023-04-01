@@ -1,0 +1,17 @@
+E:\C#\project6\project6\bin\Debug\Database1.mdf
+E:\C#\project6\project6\bin\Debug\Database1_log.ldf
+E:\C#\project6\project6\bin\Debug\Database2.mdf
+E:\C#\project6\project6\bin\Debug\Database2_log.ldf
+E:\C#\project6\project6\bin\Debug\Database3.mdf
+E:\C#\project6\project6\bin\Debug\Database3_log.ldf
+E:\C#\project6\project6\bin\Debug\project6.exe.config
+E:\C#\project6\project6\bin\Debug\project6.exe
+E:\C#\project6\project6\bin\Debug\project6.pdb
+E:\C#\project6\project6\obj\Debug\project6.csproj.AssemblyReference.cache
+E:\C#\project6\project6\obj\Debug\project6.csproj.SuggestedBindingRedirects.cache
+E:\C#\project6\project6\obj\Debug\project6.Form1.resources
+E:\C#\project6\project6\obj\Debug\project6.Properties.Resources.resources
+E:\C#\project6\project6\obj\Debug\project6.csproj.GenerateResource.cache
+E:\C#\project6\project6\obj\Debug\project6.csproj.CoreCompileInputs.cache
+E:\C#\project6\project6\obj\Debug\project6.exe
+E:\C#\project6\project6\obj\Debug\project6.pdb

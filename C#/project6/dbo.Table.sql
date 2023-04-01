@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].KhachHang
+(
+	[MaKH] NVARCHAR(50) NOT NULL PRIMARY KEY, 
+    [TenKH] NVARCHAR(50) NULL, 
+    [DiaChi] NVARCHAR(50) NULL, 
+    [SoDT] NVARCHAR(50) NULL
+)

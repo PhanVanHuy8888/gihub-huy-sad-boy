@@ -1,0 +1,13 @@
+E:\C#\project4\project4\bin\Debug\project4.exe.config
+E:\C#\project4\project4\bin\Debug\project4.exe
+E:\C#\project4\project4\bin\Debug\project4.pdb
+E:\C#\project4\project4\obj\Debug\project4.csproj.AssemblyReference.cache
+E:\C#\project4\project4\obj\Debug\project4.csproj.SuggestedBindingRedirects.cache
+E:\C#\project4\project4\obj\Debug\project4.Form1.resources
+E:\C#\project4\project4\obj\Debug\project4.Properties.Resources.resources
+E:\C#\project4\project4\obj\Debug\project4.csproj.GenerateResource.cache
+E:\C#\project4\project4\obj\Debug\project4.csproj.CoreCompileInputs.cache
+E:\C#\project4\project4\obj\Debug\project4.exe
+E:\C#\project4\project4\obj\Debug\project4.pdb
+E:\C#\project4\project4\bin\Debug\Database4.mdf
+E:\C#\project4\project4\bin\Debug\Database4_log.ldf
